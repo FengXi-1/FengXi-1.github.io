@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "枫夕の个人空间"
+title: "个人介绍"
 author_profile: true
 redirect_from: 
   - /about/
