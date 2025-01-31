@@ -21,7 +21,7 @@ repository               : "FengXi-1/FengXi-1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"#头像
+  avatar           : "https://s21.ax1x.com/2025/01/31/pEZ9pxe.jpg"#头像
   name             : "枫夕灬"
   pronouns         : # example: "she/her"  
   bio              : "希望能给大家带来快乐"
